@@ -10,3 +10,4 @@ Rest API  for the Witcher 3 🕹Game Created by [CDProjekt Red](https://en.cdpro
 
 in  the [Witcher 3: Wild Hunt](https://thewitcher.com/en/witcher3) game. 
 
+[original API](https://github.com/diwashrestha/WitcherAPI)
